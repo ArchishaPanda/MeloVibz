@@ -1,2 +1,0 @@
-# MeloVibz
-Internet Music Database
